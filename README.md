@@ -13,22 +13,23 @@ Repositório criado para registrar minha revisão de lógica de programação, r
 
 ## 🗂 Estrutura dos arquivos
 
-Os exercícios estão organizados por ordem e separados por arquivos:
-
+Os exercícios estão organizados por ordem e separados em arquivos, dentro da pasta exercicios/. Cada exercício está dentro de seu próprio arquivo com a seguinte estrutura:
 ```
 exercicios/
-├── exercicio001.por
-├── exercicio002.por
-├── exercicio003.por
+├── exercicio001.alg
+├── exercicio002.alg
+├── exercicio003.alg
 ├── ...
 ```
+Onde:
+exercicioXXX.alg: O nome de cada arquivo segue o formato exercicioXXX.alg, sendo XXX o número do exercício.
 
 ---
 
 ## ✅ Progresso
 
-- [x] Exercício 1
-- [x] Exercício 2
+- [ ] Exercício 1
+- [ ] Exercício 2
 - [ ] Exercício 3
 - [ ] Exercício 4
 - [ ] ...

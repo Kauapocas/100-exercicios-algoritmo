@@ -15,6 +15,14 @@ Repositório criado para registrar minha revisão de lógica de programação, r
 
 Os exercícios estão organizados por ordem e separados por arquivos:
 
+```
+exercicios/
+├── exercicio001.por
+├── exercicio002.por
+├── exercicio003.por
+├── ...
+```
+
 ---
 
 ## ✅ Progresso

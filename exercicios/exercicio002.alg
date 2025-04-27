@@ -5,12 +5,12 @@ algoritmo "Exercício 002"
 
 var
 
-nome: caractere
+    nome: caractere
 
 inicio
 
-escreva ("Qual é seu nome? ")
-leia (nome)
-escreval ("Olá " + nome + ", é um prazer te conhecer!")
+    escreva ("Qual é seu nome? ")
+    leia (nome)
+    escreval ("Olá " + nome + ", é um prazer te conhecer!")
 
 fimalgoritmo

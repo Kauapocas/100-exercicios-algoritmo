@@ -4,11 +4,11 @@ algoritmo "Exercício 001"
 // Data atual  : 24/04/2025
 var
 
-msg: caractere
+    msg: caractere
 
 inicio
 
-msg <- "Olá, Mundo!"
-escreva (msg)
+    msg <- "Olá, Mundo!"
+    escreva (msg)
 
 fimalgoritmo

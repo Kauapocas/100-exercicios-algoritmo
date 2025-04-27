@@ -5,17 +5,17 @@ algoritmo "Exercício 007"
 
 var
 
-n, dobro, terca: real
+    n, dobro, terc: real
 
 inicio
 
-escreva ("Digite um número: ")
-leia (n)
+    escreva ("Digite um número: ")
+    leia (n)
 
-dobro <- n * 2
-terca <- n / 3
+    dobro <- n * 2
+    terc <- n / 3
 
-escreval ("O dobro de " + n + " é " + dobro)
-escreval ("A terça parte de " + n + " é " + terca)
+    escreval ("O dobro de " + n + " é " + dobro)
+    escreval ("A terça parte de " + n + " é " + terc:4:2)
 
 fimalgoritmo

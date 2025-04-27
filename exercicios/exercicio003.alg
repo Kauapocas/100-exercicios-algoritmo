@@ -5,17 +5,16 @@ algoritmo "Exercício 003"
 
 var
 
-nome: caractere
-salario: real
+    nome: caractere
+    salario: real
 
 inicio
 
-escreva ("Nome do Funcionário: ")
-leia (nome)
-escreva ("Salário: ")
-leia (salario)
+    escreva ("Nome do Funcionário: ")
+    leia (nome)
+    escreva ("Salário: ")
+    leia (salario)
 
-escreval ("O funcionário " + nome + " tem um salário de R$" + salario + " em Junho.")
-
+    escreval ("O funcionário " + nome + " tem um salário de R$" + salario + " em Junho.")
 
 fimalgoritmo

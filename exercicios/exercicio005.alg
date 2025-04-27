@@ -5,17 +5,17 @@ algoritmo "Exercício 005"
 
 var
 
-n1, n2, media: real
+    n1, n2, media: real
 
 inicio
 
-escreva ("Nota 1: ")
-leia (n1)
-escreva ("Nota 2: ")
-leia (n2)
+    escreva ("Nota 1: ")
+    leia (n1)
+    escreva ("Nota 2: ")
+    leia (n2)
 
-media <- (n1 + n2) / 2
+    media <- (n1 + n2) / 2
 
-escreval ("A média entre " + n1 + " e " + n2 + " é igual a " + media)
+    escreval ("A média entre " + n1 + " e " + n2 + " é igual a " + media:4:2)
 
 fimalgoritmo

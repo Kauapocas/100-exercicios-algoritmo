@@ -30,38 +30,38 @@ exercicioXXX.alg: O nome de cada arquivo segue o formato exercicioXXX.alg, sendo
 
 - [x] Exercício 001 – Mostrar a mensagem "Olá, Mundo!" na tela.  
 - [x] Exercício 002 – Ler o nome de uma pessoa e mostrar uma saudação personalizada.  
-- [ ] Exercício 003 – Ler nome e salário de um funcionário e exibir mensagem com esses dados.  
-- [ ] Exercício 004 – Ler dois números inteiros e mostrar a soma entre eles.  
-- [ ] Exercício 005 – Ler duas notas de um aluno e exibir a média.  
-- [ ] Exercício 006 – Ler um número inteiro e mostrar seu antecessor e sucessor.  
-- [ ] Exercício 007 – Ler um número real e mostrar seu dobro e a terça parte.  
-- [ ] Exercício 008 – Converter uma distância em metros para outras unidades (Km, cm, mm...).  
-- [ ] Exercício 009 – Converter valor em R$ para dólares (cotação fixa).  
-- [ ] Exercício 010 – Calcular área de uma parede e quantidade de tinta necessária.  
-- [ ] Exercício 011 – Calcular o valor de Delta de uma equação do 2º grau.  
-- [ ] Exercício 012 – Calcular preço com 5% de desconto.  
-- [ ] Exercício 013 – Calcular novo salário com 15% de aumento.  
-- [ ] Exercício 014 – Calcular valor total de aluguel de carro por km e dias.  
-- [ ] Exercício 015 – Calcular salário com base em dias e horas trabalhadas.  
+- [x] Exercício 003 – Ler nome e salário de um funcionário e exibir mensagem com esses dados.  
+- [x] Exercício 004 – Ler dois números inteiros e mostrar a soma entre eles.  
+- [x] Exercício 005 – Ler duas notas de um aluno e exibir a média.  
+- [x] Exercício 006 – Ler um número inteiro e mostrar seu antecessor e sucessor.  
+- [x] Exercício 007 – Ler um número real e mostrar seu dobro e a terça parte.  
+- [x] Exercício 008 – Converter uma distância em metros para outras unidades (Km, cm, mm...).  
+- [x] Exercício 009 – Converter valor em R$ para dólares (cotação fixa).  
+- [x] Exercício 010 – Calcular área de uma parede e quantidade de tinta necessária.  
+- [x] Exercício 011 – Calcular o valor de Delta de uma equação do 2º grau.  
+- [x] Exercício 012 – Calcular preço com 5% de desconto.  
+- [x] Exercício 013 – Calcular novo salário com 15% de aumento.  
+- [x] Exercício 014 – Calcular valor total de aluguel de carro por km e dias.  
+- [x] Exercício 015 – Calcular salário com base em dias e horas trabalhadas.  
 - [ ] Exercício 016 – [DESAFIO] Calcular redução de vida de um fumante.  
 - [ ] Exercício 017 – Verificar se a velocidade de um carro excede 80km/h e calcular multa.  
 - [ ] Exercício 018 – Calcular idade e verificar se a pessoa pode votar.  
 - [ ] Exercício 019 – Ler notas de um aluno, calcular média e mostrar aproveitamento.  
-- [ ] Exercício 020 – Verificar se um número é par ou ímpar.  
+- [x] Exercício 020 – Verificar se um número é par ou ímpar.  
 - [ ] Exercício 021 – Verificar se um ano é bissexto.  
 - [ ] Exercício 022 – Verificar situação de alistamento militar com base na idade.  
 - [ ] Exercício 023 – Calcular desconto em compras com base no sexo do cliente.  
 - [ ] Exercício 024 – Calcular preço de uma passagem com base na distância.  
 - [ ] Exercício 025 – [DESAFIO] Verificar se três segmentos formam um triângulo.  
 - [ ] Exercício 026 – Comparar dois números inteiros e mostrar o maior.  
-- [ ] Exercício 027 – Calcular média de duas notas e classificar situação do aluno.  
+- [x] Exercício 027 – Calcular média de duas notas e classificar situação do aluno.  
 - [ ] Exercício 028 – Calcular área de terreno e classificá-lo por tamanho.  
 - [ ] Exercício 029 – Calcular aumento de salário conforme tempo de empresa.  
 - [ ] Exercício 030 – [DESAFIO] Classificar tipo de triângulo (equilátero, isósceles, escaleno).  
 - [ ] Exercício 031 – [DESAFIO] Criar jogo de JoKenPo.  
 - [ ] Exercício 032 – [DESAFIO] Criar jogo de adivinhação (número entre 1 e 5).  
 - [ ] Exercício 033 – Aprovar ou não empréstimo com base em salário e prestação.  
-- [ ] Exercício 034 – Calcular e classificar IMC.  
+- [x] Exercício 034 – Calcular e classificar IMC.  
 - [ ] Exercício 035 – Calcular aluguel de carro com base em tipo, dias e km percorridos.  
 - [ ] Exercício 036 – Calcular pontos e valor em dinheiro por atividade física mensal.  
 - [ ] Exercício 037 – Calcular novo salário com base no sexo e tempo de empresa.  

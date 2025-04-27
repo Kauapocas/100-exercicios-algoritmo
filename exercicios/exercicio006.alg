@@ -5,17 +5,17 @@ algoritmo "Exercício 006"
 
 var
 
-n, sus, ant: inteiro
+    n, sus, ant: inteiro
 
 inicio
 
-escreva ("Digite um número: ")
-leia (n)
+    escreva ("Digite um número: ")
+    leia (n)
 
-ant <- n - 1
-sus <- n + 1
+    ant <- n - 1
+    sus <- n + 1
 
-escreval ("O antecessor de " + n + " é " + ant)
-escreval ("O sucessor de " + n + " é " + sus)
+    escreval ("O antecessor de " + n + " é " + ant)
+    escreval ("O sucessor de " + n + " é " + sus)
 
 fimalgoritmo

@@ -43,13 +43,13 @@ exercicioXXX.alg: O nome de cada arquivo segue o formato exercicioXXX.alg, sendo
 - [x] Exercício 013 – Calcular novo salário com 15% de aumento.  
 - [x] Exercício 014 – Calcular valor total de aluguel de carro por km e dias.  
 - [x] Exercício 015 – Calcular salário com base em dias e horas trabalhadas.  
-- [ ] Exercício 016 – [DESAFIO] Calcular redução de vida de um fumante.  
-- [ ] Exercício 017 – Verificar se a velocidade de um carro excede 80km/h e calcular multa.  
-- [ ] Exercício 018 – Calcular idade e verificar se a pessoa pode votar.  
-- [ ] Exercício 019 – Ler notas de um aluno, calcular média e mostrar aproveitamento.  
+- [x] Exercício 016 – [DESAFIO] Calcular redução de vida de um fumante.  
+- [x] Exercício 017 – Verificar se a velocidade de um carro excede 80km/h e calcular multa.  
+- [x] Exercício 018 – Calcular idade e verificar se a pessoa pode votar.  
+- [x] Exercício 019 – Ler notas de um aluno, calcular média e mostrar aproveitamento.  
 - [x] Exercício 020 – Verificar se um número é par ou ímpar.  
-- [ ] Exercício 021 – Verificar se um ano é bissexto.  
-- [ ] Exercício 022 – Verificar situação de alistamento militar com base na idade.  
+- [x] Exercício 021 – Verificar se um ano é bissexto.  
+- [x] Exercício 022 – Verificar situação de alistamento militar com base na idade.  
 - [ ] Exercício 023 – Calcular desconto em compras com base no sexo do cliente.  
 - [ ] Exercício 024 – Calcular preço de uma passagem com base na distância.  
 - [ ] Exercício 025 – [DESAFIO] Verificar se três segmentos formam um triângulo.  

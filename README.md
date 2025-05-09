@@ -50,21 +50,21 @@ exercicioXXX.alg: O nome de cada arquivo segue o formato exercicioXXX.alg, sendo
 - [x] Exercício 020 – Verificar se um número é par ou ímpar.  
 - [x] Exercício 021 – Verificar se um ano é bissexto.  
 - [x] Exercício 022 – Verificar situação de alistamento militar com base na idade.  
-- [ ] Exercício 023 – Calcular desconto em compras com base no sexo do cliente.  
-- [ ] Exercício 024 – Calcular preço de uma passagem com base na distância.  
-- [ ] Exercício 025 – [DESAFIO] Verificar se três segmentos formam um triângulo.  
-- [ ] Exercício 026 – Comparar dois números inteiros e mostrar o maior.  
+- [x] Exercício 023 – Calcular desconto em compras com base no sexo do cliente.  
+- [x] Exercício 024 – Calcular preço de uma passagem com base na distância.  
+- [x] Exercício 025 – [DESAFIO] Verificar se três segmentos formam um triângulo.  
+- [x] Exercício 026 – Comparar dois números inteiros e mostrar o maior.  
 - [x] Exercício 027 – Calcular média de duas notas e classificar situação do aluno.  
-- [ ] Exercício 028 – Calcular área de terreno e classificá-lo por tamanho.  
-- [ ] Exercício 029 – Calcular aumento de salário conforme tempo de empresa.  
+- [x] Exercício 028 – Calcular área de terreno e classificá-lo por tamanho.  
+- [x] Exercício 029 – Calcular aumento de salário conforme tempo de empresa.  
 - [ ] Exercício 030 – [DESAFIO] Classificar tipo de triângulo (equilátero, isósceles, escaleno).  
 - [ ] Exercício 031 – [DESAFIO] Criar jogo de JoKenPo.  
 - [ ] Exercício 032 – [DESAFIO] Criar jogo de adivinhação (número entre 1 e 5).  
-- [ ] Exercício 033 – Aprovar ou não empréstimo com base em salário e prestação.  
+- [x] Exercício 033 – Aprovar ou não empréstimo com base em salário e prestação.  
 - [x] Exercício 034 – Calcular e classificar IMC.  
-- [ ] Exercício 035 – Calcular aluguel de carro com base em tipo, dias e km percorridos.  
-- [ ] Exercício 036 – Calcular pontos e valor em dinheiro por atividade física mensal.  
-- [ ] Exercício 037 – Calcular novo salário com base no sexo e tempo de empresa.  
+- [x] Exercício 035 – Calcular aluguel de carro com base em tipo, dias e km percorridos.  
+- [x] Exercício 036 – Calcular pontos e valor em dinheiro por atividade física mensal.  
+- [x] Exercício 037 – Calcular novo salário com base no sexo e tempo de empresa.  
 - [ ] Exercício 038 – Contagem de 6 a 11.  
 - [ ] Exercício 039 – Contagem de 10 a 3.  
 - [ ] Exercício 040 – Contagem de 0 a 18 de 3 em 3.  
